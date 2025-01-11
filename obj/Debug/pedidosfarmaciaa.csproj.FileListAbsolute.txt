@@ -1,0 +1,10 @@
+C:\Users\jose.cardona\source\repos\pedidosfarmaciaa\pedidosfarmaciaa\obj\Debug\pedidosfarmaciaa.csproj.AssemblyReference.cache
+C:\Users\jose.cardona\source\repos\pedidosfarmaciaa\pedidosfarmaciaa\obj\Debug\pedidosfarmaciaa.PedidosForm.resources
+C:\Users\jose.cardona\source\repos\pedidosfarmaciaa\pedidosfarmaciaa\obj\Debug\pedidosfarmaciaa.Properties.Resources.resources
+C:\Users\jose.cardona\source\repos\pedidosfarmaciaa\pedidosfarmaciaa\obj\Debug\pedidosfarmaciaa.csproj.GenerateResource.cache
+C:\Users\jose.cardona\source\repos\pedidosfarmaciaa\pedidosfarmaciaa\obj\Debug\pedidosfarmaciaa.csproj.CoreCompileInputs.cache
+C:\Users\jose.cardona\source\repos\pedidosfarmaciaa\pedidosfarmaciaa\bin\Debug\pedidosfarmaciaa.exe.config
+C:\Users\jose.cardona\source\repos\pedidosfarmaciaa\pedidosfarmaciaa\bin\Debug\pedidosfarmaciaa.exe
+C:\Users\jose.cardona\source\repos\pedidosfarmaciaa\pedidosfarmaciaa\bin\Debug\pedidosfarmaciaa.pdb
+C:\Users\jose.cardona\source\repos\pedidosfarmaciaa\pedidosfarmaciaa\obj\Debug\pedidosfarmaciaa.exe
+C:\Users\jose.cardona\source\repos\pedidosfarmaciaa\pedidosfarmaciaa\obj\Debug\pedidosfarmaciaa.pdb
